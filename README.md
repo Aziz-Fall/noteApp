@@ -7,6 +7,10 @@ NOTE'S is a mobile app that manage a note. Flutter is the framework that I use t
 
 ### Screens
 #
+<p align="center">
+  <img src="/img/splashScreen.png" />
+</p>
+
 ![Splash Screen](/img/splashScreen.png)
 #
 ![Notes List](/img/notesList.png)
