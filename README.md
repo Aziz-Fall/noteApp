@@ -3,7 +3,7 @@
 NOTE'S is a mobile app that manage a note. Flutter is the framework that I use to build this app.
 
 ## Installation
-[a link](https://flutter.dev/docs/get-started/install)
+[to Install app](https://flutter.dev/docs/get-started/install)
 
 ### Screens
 #
